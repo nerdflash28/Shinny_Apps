@@ -30,3 +30,8 @@
 [application code](https://raw.githubusercontent.com/dataprofessor/code/master/shiny/001-first-app/app.R)
 
 * Step 2: Paste and run the application in Rstudio Code
+
+* Step 3: after running the application code,output will come something like this!  
+![output](./images/first_app.png)
+
+
